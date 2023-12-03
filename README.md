@@ -3,7 +3,7 @@
 
 - 🌱 I’m a **M.E.R.N Full-Stack Developer**
 
-- 📫 How to reach me **badrslaoui8@gmail.com**
+- 📫 How to reach me **slaoui.badr.eddine.sdv@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
