@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badr Eddine SLaoui</h1>
 <h3 align="center">A Full-Stack Student from Morocco</h3>
 
-- 🌱 I’m a **M.E.R.N Full-Stack Developer**
+- 🌱 I’m a **M.E.R.N Stack Developer**
 
 - 📫 How to reach me **slaoui.badr.eddine.sdv@gmail.com**
 
