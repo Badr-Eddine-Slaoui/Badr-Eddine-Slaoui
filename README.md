@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Badr Eddine Slaoui
 
-🎯 **Web Full-Stack Developer | MERN Stack Enthusiast | Laravel Developer**
+🎯 **Web Full-Stack Developer | MERN Stack Developer | Laravel Developer**
 
 🌍 Based in Safi, Morocco, I am a passionate developer committed to creating impactful digital solutions. With a solid foundation in computer science and web development, I specialize in crafting seamless user experiences and efficient backend systems.
 
