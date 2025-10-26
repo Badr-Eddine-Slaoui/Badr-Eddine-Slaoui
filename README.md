@@ -43,7 +43,7 @@ I am always exploring new frameworks, architectures, and programming paradigms t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Badr-Eddine-Slaoui&show_icons=true&theme=radical" alt="stats github"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badr-Eddine-Slaouitheme=radical" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badr-Eddine-Slaoui&theme=radical" alt="streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badr-Eddine-Slaoui&layout=compact&theme=radical" alt="top langs"/>
 </p>
 
